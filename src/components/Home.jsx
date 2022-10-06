@@ -19,11 +19,7 @@ const Home = () => {
             className="group text-white w-fit px-10 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer">
                 Portfolio
                 <span className=' group-hover:rotate-90 duration-300  ' >
-<<<<<<< HEAD
-=======
-           
->>>>>>> 50a6379cd1f19a65f1f9b0893ff77e16805078dd
-                 </span>
+                </span>
             </Link>
          </div>
     </div>
