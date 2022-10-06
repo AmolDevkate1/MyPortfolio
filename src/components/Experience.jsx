@@ -4,7 +4,7 @@ import sb from '../assets/sb.png';
 import javascript from '../assets/javascript.png';
 import reactImage from '../assets/react.png';
 import github from '../assets/github.png';
-//import MySQL from '../assets/mysql.png';
+import MySQL from '../assets/mysql.png';
 //import Mongodb from '../assets/mongodb.png';
 //import node from '../assets/node.png';
  //import Springboot from '../assets/springboot.png';
@@ -22,7 +22,7 @@ style: 'shadow-orange-500'
     id: 2,
     src: sb,
    title: 'SpringBoot',
-   style: 'shadow-blue-500'
+   style: 'shadow-green-400'
    },
    {
     id: 3,
@@ -44,7 +44,7 @@ style: 'shadow-orange-500'
    },
    {
     id: 6,
-    src: reactImage, 
+    src: MySQL, 
    title: 'MySQL',
    style: 'shadow-blue-500'
    },
