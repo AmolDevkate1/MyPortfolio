@@ -1,13 +1,13 @@
 import React from 'react'
 import html from '../assets/html.png';
-import css from '../assets/css.png';
+import sb from '../assets/sb.png';
 import javascript from '../assets/javascript.png';
 import reactImage from '../assets/react.png';
 import github from '../assets/github.png';
 //import MySQL from '../assets/mysql.png';
 //import Mongodb from '../assets/mongodb.png';
 //import node from '../assets/node.png';
-//import Springboot from '../assets/springboot.png';
+ //import Springboot from '../assets/springboot.png';
 import tailwind from '../assets/tailwind.png';
 const Experience = () => {
 
@@ -20,8 +20,8 @@ style: 'shadow-orange-500'
 },
 {
     id: 2,
-    src: css,
-   title: 'CSS',
+    src: sb,
+   title: 'SpringBoot',
    style: 'shadow-blue-500'
    },
    {

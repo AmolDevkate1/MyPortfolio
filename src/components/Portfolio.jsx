@@ -1,21 +1,20 @@
 import React from 'react'
-import arrayDestruct from "../assets/portfolio/arrayDestruct.jpg";
+
 import installNode from "../assets/portfolio/installNode.jpg";
 import navbar from "../assets/portfolio/navbar.jpg";
-import reactParallax from "../assets/portfolio/reactParallax.jpg";
 import reactSmooth from "../assets/portfolio/reactSmooth.jpg";
-import reactWeather from "../assets/portfolio/reactWeather.jpg";
+import flyby from "../assets/portfolio/home.jpg";
 
 const Portfolio = () => {
 
 const portfolio = [
 {
     id:1,
-    src:arrayDestruct
+    src:flyby
 },
 {
     id:2,
-    src:reactParallax
+    src:reactSmooth
 
 },
 {
@@ -31,14 +30,7 @@ const portfolio = [
 {
     id:5,
     src:installNode
-
-},
-{
-    id:6,
-    src:reactWeather
-
 }
-
 ]
     return (
     <div name="portfolio" className='bg-gradient-to-b from-black to-gray-800 w-full text-white md:h-screen ' >
